@@ -268,14 +268,13 @@ hr {
   height: 500px;
   object-fit: cover;
   border: 2px solid #DADADB;
-  filter: grayscale(100%);
   transition: all 0.5s ease-in-out;
-  cursor: cell;
+  cursor: default;
 }
 
 .about-container .flex-about .about-img .profile-img:hover {
-  filter: grayscale(0%);
   transform: scale(1.02);
+  cursor: default;
 }
 
 @media screen and (max-width: 768px) {
@@ -326,7 +325,7 @@ hr {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   transition: all 0.5s ease-in-out;
-  cursor: context-menu;
+  cursor: default;
 }
 
 .skills-container .grid-skills i {
