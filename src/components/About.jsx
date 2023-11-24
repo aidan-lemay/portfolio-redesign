@@ -21,7 +21,7 @@ const About = () => {
                 </div>
                 <div className="about-img">
                     {/* <Image src='../images/conehead.jpg' className="profile-img" width={300} height={500} alt="Aidan in a high-vis jacket with a cone on his head" /> */}
-                    <Image src="/conehead.jpg" className="profile-img" width={300} height={500} alt="Aidan in a high-vis jacket with a cone on his head" />
+                    <Image src="/assets/img/conehead.jpg" className="profile-img" width={300} height={500} alt="Aidan in a high-vis jacket with a cone on his head" />
                 </div>
             </div>
         </div>
