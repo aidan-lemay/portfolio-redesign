@@ -16,6 +16,15 @@ const Footer = () => {
                     >
                         <i className="fa-solid fa-code"></i>
                     </a>
+                    <div className="divider"></div>
+                    <a
+                        href="/TackOverflow/index.pxp"
+                        aria-label="Old Index"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <i className="fa-solid fa-database"></i>
+                    </a>
                 </div>
 
                 <div className="social_icons">
