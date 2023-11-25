@@ -7,7 +7,7 @@ const Footer = () => {
                     &copy;{new Date().getFullYear()}, Aidan LeMay
                 </p>
 
-                <div>
+                <div className="footButtons">
                     <a
                         href="index_old.html"
                         aria-label="Old Index"
@@ -18,7 +18,7 @@ const Footer = () => {
                     </a>
                     <div className="divider"></div>
                     <a
-                        href="/TackOverflow/index.pxp"
+                        href="/TackOverflow/index.php"
                         aria-label="Old Index"
                         target="_blank"
                         rel="noopener noreferrer"

@@ -470,6 +470,10 @@ hr {
   text-align: center;
 }
 
+.footButtons {
+  display: inline;
+}
+
 .divider {
-  width: 20px;
+  width: 10px;
 }
