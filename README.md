@@ -9,4 +9,4 @@
 * CD to root folder and run `npm install`
 * Update changes with `npm run dev`
 * Build changes on branch with `npm run build`
-* Copy files in /build/ to your server
+* Copy files in /out/ to your server
