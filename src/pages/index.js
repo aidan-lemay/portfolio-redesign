@@ -13,7 +13,7 @@ const Home = () => {
 				<title>Portfolio - Aidan LeMay</title>
 				<meta name="description" content="Aidan's Portfolio" />
 				<meta name="viewport" content="width=device-width, initial-scale=1" />
-				<link rel="icon" href="/favicon.jpeg" />
+				<link rel="icon" href="/favicon.png" />
 			</Head>
 			<div>
 				<Hero />
