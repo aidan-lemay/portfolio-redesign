@@ -170,6 +170,23 @@ hr {
   color: #DADADB;
 }
 
+.foot-buttons {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.foot-buttons a {
+  color: #9B9C9D;
+  font-size: 1.5rem;
+  transition: all 0.5s ease-in-out;
+}
+
+.foot-buttons a:hover {
+  color: #DADADB;
+}
+
 /* Hero */
 
 .hero-container {
@@ -468,12 +485,4 @@ hr {
   font-weight: 400;
   margin-bottom: 1rem;
   text-align: center;
-}
-
-.footButtons {
-  display: inline;
-}
-
-.divider {
-  width: 10px;
 }

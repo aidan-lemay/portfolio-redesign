@@ -7,7 +7,7 @@ const Footer = () => {
                     &copy;{new Date().getFullYear()}, Aidan LeMay
                 </p>
 
-                <div className="footButtons">
+                <div className="social_icons">
                     <a
                         href="index_old.html"
                         aria-label="Old Index"
@@ -16,7 +16,6 @@ const Footer = () => {
                     >
                         <i className="fa-solid fa-code"></i>
                     </a>
-                    <div className="divider"></div>
                     <a
                         href="/TackOverflow/index.php"
                         aria-label="Old Index"
