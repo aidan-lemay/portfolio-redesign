@@ -36,6 +36,14 @@ const Footer = () => {
                         <i className="fa-solid fa-book-open"></i>
                     </a>
                     <a
+                        href="https://filebrowser.k5doc.tech/"
+                        aria-label="FileBrowser"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <i className="fa-regular fa-folder"></i>
+                    </a>
+                    <a
                         href="https://pihole.k5doc.tech/admin/"
                         aria-label="PiHole Admin Gateway"
                         target="_blank"
