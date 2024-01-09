@@ -3,6 +3,7 @@
 #### Hosted at https://aidanlemay.com/ and https://k5doc.tech/
 ##### From https://kinsta.com/blog/next-js-portfolio/
 
+#### FontAwesome icon library: https://fontawesome.com/icons
 
 ## Deployment
 * NPM latest is required
