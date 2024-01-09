@@ -19,7 +19,7 @@ const Footer = () => {
                     </a>
                     <a
                         href="/TackOverflow/index.php"
-                        aria-label="Old Index"
+                        aria-label="Tack Overflow"
                         target="_blank"
                         rel="noopener noreferrer"
                     >
