@@ -9,25 +9,6 @@ const Footer = () => {
 
                 <div className="social_icons">
                     <a
-                        href="index_old.html"
-                        aria-label="Old Index"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                    >
-                        <i className="fa-solid fa-code"></i>
-                    </a>
-                    <a
-                        href="/TackOverflow/index.php"
-                        aria-label="Old Index"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                    >
-                        <i className="fa-solid fa-database"></i>
-                    </a>
-                </div>
-
-                <div className="social_icons">
-                    <a
                         href="https://github.com/aidan-lemay"
                         aria-label="GitHub"
                         target="_blank"

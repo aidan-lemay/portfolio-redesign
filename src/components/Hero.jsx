@@ -11,6 +11,14 @@ const Hero = () => {
                 </p>
                 <div className="social-icons">
                     <a
+                        href="mailto:aidan@aidanlemay.com"
+                        aria-label="Email"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        <i className="fa-solid fa-envelope"></i>
+                    </a>
+                    <a
                         href="https://github.com/aidan-lemay"
                         aria-label="GitHub"
                         target="_blank"

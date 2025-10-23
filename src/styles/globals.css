@@ -361,6 +361,10 @@ hr {
   background-color: #F7DF1E;
 }
 
+.skills-container .grid-skills .figma:hover {
+  background-color: #a259ff;
+}
+
 .skills-container .grid-skills .react:hover {
   background-color: #61DAFB;
 }

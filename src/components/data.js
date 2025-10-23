@@ -1,10 +1,9 @@
 export const projectData = [
 	{
 		id: 1,
-		title: 'DeliverU - Node API',
-		description:
-			'An API I built for a small startup I contracted with in 2022. This API takes in mobile food delivery orders from our web interface and direct orders from Agilysis, the mobile order content management system contracted with RIT, and logs them into a database for access by the discord interface.',
-		gitHubLink: 'https://github.com/aidan-lemay/DeliverU-NodeAPI',
+		title: 'ClearCut Mobile Companion App',
+		description: 'A native mobile application I built as a companion app for clearcutradio.app, a project a friend created to live-transcribe emergency services radio traffic from around the country! This application allows users quicker access to the Clearcut system without needing to use a web browser. It adds functionality like system favoriting and real-time on demand transcription to the base application, while being easier and faster to use.',
+		gitHubLink: 'https://github.com/aidan-lemay/ClearCut_Mobile',
 	},
 	{
 		id: 2,
